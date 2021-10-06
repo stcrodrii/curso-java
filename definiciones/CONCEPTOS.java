@@ -33,7 +33,7 @@ MODULARIZACION : programas divididos en "trozos " , "partes"
  un error solo buscas en ese bloque el error y no en todo el programa
 
 FINAL : para que las clases no hereden de otras o para qe los metodos no se ocupen con el mismo nombre y hagan otra cosa y tambien sirve para crear constantes
-FINAL : para que las clases no hereden de otras o para qe los metodos no se ocupen con el mismo nombre y hagan otra cosa y tambien sirve para crear constantes
+
 
 
 */
