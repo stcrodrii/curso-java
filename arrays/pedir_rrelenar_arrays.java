@@ -1,3 +1,4 @@
+package arrays;
 import javax.swing.*;
 public class pedir_rrelenar_arrays {
     public static void main(String[] args) {
