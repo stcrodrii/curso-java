@@ -9,8 +9,8 @@ class ClassMain {
     Profesor profe1 = new Profesor("Facu", "uferer", 2435, 150.000);
 
     //estudiantesss
-    Estudiante est1 = new Estudiante("john ", "snow", 5_900);
-    Estudiante est2 = new Estudiante("cersei", "lannister", 533_000);
+    Estudiante est1 = new Estudiante("john ", "snow", 500);
+    Estudiante est2 = new Estudiante("cersei", "lannister", 5000);
     Estudiante estudiante3 = new Estudiante("jose", "cabral", 456);
 
 
